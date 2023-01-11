@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756241329760",
+    "project_id": "allaboutkorea-c9c72",
+    "storage_bucket": "allaboutkorea-c9c72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756241329760:android:b87727f9d3ca27ee071d05",
+        "android_client_info": {
+          "package_name": "com.allaboutkorea.allaboutkorea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756241329760-bes0ig9on94d1vlkulfeqjm4sdr00lq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT3hmAKJq7AG2SlsLr4R8KfqYhYarLWgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756241329760-bes0ig9on94d1vlkulfeqjm4sdr00lq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

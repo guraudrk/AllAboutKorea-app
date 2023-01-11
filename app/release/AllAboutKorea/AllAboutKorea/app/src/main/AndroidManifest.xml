@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.allaboutkorea.allaboutkorea">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AllAboutKorea">
+        <activity
+            android:name="com.allaboutkorea.allaboutkorea.HistoryActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.allaboutkorea.allaboutkorea.EconomyActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.allaboutkorea.allaboutkorea.FunfactsActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.allaboutkorea.allaboutkorea.TravelActivity2"
+            android:exported="true" />
+        <activity
+            android:name="com.allaboutkorea.allaboutkorea.KoreanActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.allaboutkorea.allaboutkorea.KdramaActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.allaboutkorea.allaboutkorea.KpopActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.allaboutkorea.allaboutkorea.FoodActivity"
+            android:exported="true" />
+
+
+        <activity
+            android:name="com.allaboutkorea.allaboutkorea.SettingActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.allaboutkorea.allaboutkorea.board.BoardEditActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.allaboutkorea.allaboutkorea.KbeautyActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.allaboutkorea.allaboutkorea.board.BoardWriteActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.allaboutkorea.allaboutkorea.auth.joinactivity"
+            android:exported="true" />
+        <activity
+            android:name="com.allaboutkorea.allaboutkorea.contentslist.contentlistactivity"
+            android:exported="true" />
+        <activity android:name="com.allaboutkorea.allaboutkorea.auth.introactivity" />
+        <activity android:name="com.allaboutkorea.allaboutkorea.auth.loginactivity" />
+        <activity android:name="com.allaboutkorea.allaboutkorea.contentslist.ContentShowActivity" />
+        <activity
+            android:name="com.allaboutkorea.allaboutkorea.board.BoardInsideActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.allaboutkorea.allaboutkorea.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.allaboutkorea.allaboutkorea.MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

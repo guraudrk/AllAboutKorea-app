@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "331329872202",
+    "project_id": "allaboutkorea-77019",
+    "storage_bucket": "allaboutkorea-77019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331329872202:android:3288a4e5d108b7f487a1b3",
+        "android_client_info": {
+          "package_name": "com.allaboutkorea.allaboutkorea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331329872202-g7obau6h4qni5cli1ocd95po0l8u9cfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADW8HR596exUL_tmC6jcdwQtsb2UxlnMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331329872202-g7obau6h4qni5cli1ocd95po0l8u9cfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331329872202:android:0400a26e8e4e109b87a1b3",
+        "android_client_info": {
+          "package_name": "com.example.allaboutkorea.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331329872202-g7obau6h4qni5cli1ocd95po0l8u9cfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADW8HR596exUL_tmC6jcdwQtsb2UxlnMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331329872202-g7obau6h4qni5cli1ocd95po0l8u9cfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

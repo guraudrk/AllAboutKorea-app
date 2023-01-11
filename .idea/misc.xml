@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/drawable/background_radius.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/drawable/background_radius_yellow.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/drawable/background_white.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/drawable/radius.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/drawable/radius_yellow.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/font/font.xml" value="0.176" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_board.xml" value="0.11979166666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_board3.xml" value="0.1265625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_board_edit.xml" value="0.536" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_board_edit2.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_board_inside.xml" value="0.4" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_board_inside2.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_board_list.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_board_list2.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_board_list_lvadapter.xml" value="0.1265625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_board_model.xml" value="0.1265625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_board_write.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_board_write2.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_broadwriteactivity.xml" value="0.4" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_contentlistactivity.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_contentshowadtivity.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_economy.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_fodd.xml" value="0.24512820512820513" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_food.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_funfacts.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_history.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_history2.xml" value="0.10572916666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_introactivity.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_joinactivity.xml" value="0.4" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_kbeauty.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_kbeauty2.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_kdrama.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_korean.xml" value="0.4" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_kpop.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_loginactivity.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_main2.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_main_activityddd.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_setting.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_splashactivity.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_splashactivity2.xml" value="0.1203125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/activity_travel.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/board_list_item.xml" value="0.4" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/comment_list_item.xml" value="0.4" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/content_rv_item.xml" value="0.4" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/custom_dialog.xml" value="0.4" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/fragment_blank.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/fragment_board_inside_activity.xml" value="0.15416666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/fragment_bookmark.xml" value="0.3190104166666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/fragment_store.xml" value="0.536" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/fragment_talk.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/fragment_tip.xml" value="0.4" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AllAboutKorea/app/src/main/res/layout/gotothekoreanet.xml" value="0.10833333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

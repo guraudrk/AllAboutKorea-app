@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_main"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/bookmarkFragment"
+        android:name="fragment.BookmarkFragment"
+        android:label="BookmarkFragment" >
+        <action
+            android:id="@+id/action_bookmarkFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+        <action
+            android:id="@+id/action_bookmarkFragment_to_tipFragment"
+            app:destination="@id/tipFragment" />
+        <action
+            android:id="@+id/action_bookmarkFragment_to_talkFragment"
+            app:destination="@id/talkFragment" />
+        <action
+            android:id="@+id/action_bookmarkFragment_to_storeFragment"
+            app:destination="@id/storeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="fragment.HomeFragment"
+        android:label="HomeFragment" >
+        <action
+            android:id="@+id/action_homeFragment_to_storeFragment"
+            app:destination="@id/storeFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_bookmarkFragment"
+            app:destination="@id/bookmarkFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_tipFragment"
+            app:destination="@id/tipFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_talkFragment"
+            app:destination="@id/talkFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/storeFragment"
+        android:name="fragment.StoreFragment"
+        android:label="StoreFragment" >
+        <action
+            android:id="@+id/action_storeFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+        <action
+            android:id="@+id/action_storeFragment_to_bookmarkFragment"
+            app:destination="@id/bookmarkFragment" />
+        <action
+            android:id="@+id/action_storeFragment_to_tipFragment"
+            app:destination="@id/tipFragment" />
+        <action
+            android:id="@+id/action_storeFragment_to_talkFragment"
+            app:destination="@id/talkFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/talkFragment"
+        android:name="fragment.TalkFragment"
+        android:label="TalkFragment" >
+        <action
+            android:id="@+id/action_talkFragment_to_tipFragment"
+            app:destination="@id/tipFragment" />
+        <action
+            android:id="@+id/action_talkFragment_to_bookmarkFragment"
+            app:destination="@id/bookmarkFragment" />
+        <action
+            android:id="@+id/action_talkFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+        <action
+            android:id="@+id/action_talkFragment_to_storeFragment"
+            app:destination="@id/storeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/tipFragment"
+        android:name="fragment.TipFragment"
+        android:label="TipFragment" >
+        <action
+            android:id="@+id/action_tipFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+        <action
+            android:id="@+id/action_tipFragment_to_bookmarkFragment"
+            app:destination="@id/bookmarkFragment" />
+        <action
+            android:id="@+id/action_tipFragment_to_talkFragment"
+            app:destination="@id/talkFragment" />
+        <action
+            android:id="@+id/action_tipFragment_to_storeFragment"
+            app:destination="@id/storeFragment" />
+    </fragment>
+</navigation>
